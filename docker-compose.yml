@@ -20,3 +20,4 @@ services:
       ME_CONFIG_MONGODB_ADMINPASSWORD: root
     ports:
       - "8081:8081"
+
